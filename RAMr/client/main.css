@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+body {
+  padding-top: 80px;
+}
+
+#profileContainer {
+  width: 50%;
+}
+
+.navbar{
+  background-color: #FFDEAD;
+  border-color: #FFDEAD;
+}
+
+.home{
+
+}
